@@ -20,7 +20,7 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.instagram.com/vatsal.kotha/"
+          href="https://www.linkedin.com/in/vatsal-kotha-62521a21a/"
           target="_blank"
           rel="noreferrer"
         >

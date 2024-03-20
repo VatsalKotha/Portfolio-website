@@ -263,7 +263,6 @@ export function Main() {
       <Project></Project>
       <Internship></Internship>
       <Contact></Contact>
-      
     </Container>
   );
 }
