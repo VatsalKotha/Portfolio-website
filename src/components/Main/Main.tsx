@@ -13,8 +13,11 @@ import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import vueIcon from "../../assets/vue-icon.svg";
+import firebase from "../../assets/firebase.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import vscodeIcon from "../../assets/vscode-icon.svg";
+import flutterIcon from "../../assets/flutter.svg";
+import { Internship } from "../Internship/Internship";
 
 export function Main() {
   return (
@@ -178,11 +181,11 @@ export function Main() {
                   "width": 20,
                   "height": 20
                 },
-                // {
-                //   "src": mysqlIcon,
-                //   "width": 20,
-                //   "height": 20
-                // },
+                {
+                  "src": flutterIcon,
+                  "width": 20,
+                  "height": 20
+                },
                 {
                   "src": nodeIcon,
                   "width": 20,
@@ -203,13 +206,13 @@ export function Main() {
                   "width": 20,
                   "height": 20
                 },
-                // {
-                //   "src": vscodeIcon,
-                //   "width": 20,
-                //   "height": 20
-                // },
                 {
-                  "src": vueIcon,
+                  "src": vscodeIcon,
+                  "width": 20,
+                  "height": 20
+                },
+                {
+                  "src": firebase,
                   "width": 20,
                   "height": 20
                 },
@@ -258,7 +261,9 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Project></Project>
+      <Internship></Internship>
       <Contact></Contact>
+      
     </Container>
   );
 }
