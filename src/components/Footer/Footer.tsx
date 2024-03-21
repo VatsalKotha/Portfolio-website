@@ -1,8 +1,8 @@
-import { Container } from './styles'
-import linkedin from '../../assets/linkedin.svg'
-import githubIcon from '../../assets/github.svg'
-import instagramIcon from '../../assets/instagram.svg'
-import twitter from '../../assets/twitter.svg'
+import { Container } from "./styles";
+import linkedin from "../../assets/linkedin.svg";
+import githubIcon from "../../assets/github.svg";
+import instagramIcon from "../../assets/instagram.svg";
+import twitter from "../../assets/twitter.svg";
 
 export function Footer() {
   return (
@@ -13,7 +13,7 @@ export function Footer() {
       </a> */}
       <div>
         <p>
-        Copyright © 2024 Vatsal Kotha. All rights reserved.
+          Copyright © 2024 Vatsal Kotha. All rights reserved.
           {/* This Website was made with <img src={reactIcon} alt="React" /> */}
           {/* <span>❤️</span> */}
         </p>
@@ -49,5 +49,5 @@ export function Footer() {
         </a>
       </div>
     </Container>
-  )
+  );
 }
