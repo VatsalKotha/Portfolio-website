@@ -78,9 +78,12 @@ export function Internship() {
                 of truth, committed to bringing you the most common and uncommon
                 worldly happenings occurring every day. Our team of experienced
                 journalists work tirelessly to convey these happenings to you,
-                with enormous resources at our disposal.</p><p> My Role :- Responsible
-                for publising the articles on their website and handling the
-                SEO. Ranked among top 5 Interns.
+                with enormous resources at our disposal.
+              </p>
+              <p>
+                {" "}
+                My Role :- Responsible for publising the articles on their
+                website and handling the SEO. Ranked among top 5 Interns.
               </p>
             </div>
             <footer>
@@ -143,11 +146,14 @@ export function Internship() {
               <p>
                 About the Company :- We believe that scale comes with a
                 responsibility. A responsibility to be responsive and
-                innovative. And that's exactly how our digital solutions are.</p><p>
-                My Role :- Responsible for Developing different elements in a website using WordPress.
-                            Coordinated with the Founder and Co-Founder for development of different websites & its elements.
-                            Responsible for maintaining an attractive UI for all the clients.
-                            
+                innovative. And that's exactly how our digital solutions are.
+              </p>
+              <p>
+                My Role :- Responsible for Developing different elements in a
+                website using WordPress. Coordinated with the Founder and
+                Co-Founder for development of different websites & its elements.
+                Responsible for maintaining an attractive UI for all the
+                clients.
               </p>
             </div>
             <footer>
@@ -161,7 +167,77 @@ export function Internship() {
           </div>
         </ScrollAnimation>
 
-       
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg
+                width="50"
+                xmlns="http://www.w3.org/2000/svg"
+                version="1.1"
+                viewBox="-5.0 -10.0 110.0 135.0"
+                fill="none"
+                stroke="#23ce6b "
+                stroke-width="1"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path
+                  d="m40.75 13.625h3.8906v-5.1953c0-0.55078 0.44531-0.99609 0.99609-0.99609h13.48v-5.1914c0-0.55078 0.44531-0.99609 0.99609-0.99609h15.098c0.55078 0 0.99609 0.44531 0.99609 0.99609v5.1953h13.48c0.55078 0 0.99609 0.44531 0.99609 0.99609v5.1953h3.8906c1.6758 0 3.0391 1.3633 3.0391 3.0391v81.094c0 0.55078-0.44531 0.99609-0.99609 0.99609h-93.227c-0.55078 0-0.99609-0.44531-0.99609-0.99609l-0.003906-58.77c0-1.6758 1.3633-3.0391 3.0391-3.0391h32.277l0.003907-19.289c0-1.6758 1.3633-3.0391 3.0391-3.0391zm-16.848 64.762c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6133c0.55078 0 0.99609-0.44531 0.99609-0.99609l-0.003907-11.367c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6172 1.9922h-3.6211v9.375h3.6211zm-17.406-1.9922c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6133c0.55078 0 0.99609-0.44531 0.99609-0.99609l-0.003906-11.367c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6133 1.9922h-3.6211v9.375h3.6211zm8.6406-19.703c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6133c0.55078 0 0.99609-0.44531 0.99609-0.99609l-0.003906-11.371c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6133 1.9883h-3.6211v9.375h3.6211zm-17.406-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6133c0.55078 0 0.99609-0.44531 0.99609-0.99609v-11.371c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6172 1.9883h-3.6211v9.375h3.6211zm8.6367-19.703c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6094c0.55078 0 0.99609-0.44531 0.99609-0.99609v-11.367c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6172 1.9883h-3.6211v9.375h3.6211zm-17.406-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v11.367c0 0.55078 0.44531 0.99609 0.99609 0.99609h5.6094c0.55078 0 0.99609-0.44531 0.99609-0.99609v-11.367c0-0.55078-0.44531-0.99609-0.99609-0.99609zm4.6172 1.9883h-3.6211v9.375h3.6211zm44.449-37.516h13.105v-4.1953h-13.105zm-14.473 6.1914h42.055v-4.1992h-42.055zm22.02 64.871v18.27h10.676v-18.27zm-1.9883 18.266v-18.266h-10.676v18.27zm-11.668-20.258h25.328c0.55078 0 0.99609 0.44531 0.99609 0.99609v19.262h14.301l-0.003906-80.098c0-0.57812-0.47266-1.0508-1.0508-1.0508h-53.816c-0.57812 0-1.0508 0.47266-1.0508 1.0508v80.098h14.301v-19.262c0-0.55078 0.44531-0.99609 0.99609-0.99609zm25.453-19.367c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9922h-6.6836v6.6836h6.6836zm-24.809-1.9922c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6836 1.9922h-6.6836v6.6836h6.6836zm-24.809-1.9922c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9922h-6.6836v6.6836h6.6836zm26.574-18.402c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9883h-6.6836v6.6836h6.6836zm-24.809-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6836 1.9883h-6.6836v6.6836h6.6836zm-24.809-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9883h-6.6836v6.6836h6.6836zm26.574-18.398c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9883h-6.6836v6.6836h6.6836zm-24.809-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6836 1.9883h-6.6836v6.6836h6.6836zm-24.809-1.9883c-0.55078 0-0.99609 0.44531-0.99609 0.99609v8.6758c0 0.55078 0.44531 0.99609 0.99609 0.99609h8.6758c0.55078 0 0.99609-0.44531 0.99609-0.99609v-8.6758c0-0.55078-0.44531-0.99609-0.99609-0.99609zm7.6797 1.9883h-6.6836v6.6836h6.6836zm-16.164 70.457v-58.824l-32.277 0.003906c-0.57812 0-1.0508 0.47266-1.0508 1.0508v57.773z"
+                  fill-rule="evenodd"
+                />
+                <text
+                  x="0.0"
+                  y="117.5"
+                  font-size="5.0"
+                  font-weight="bold"
+                  font-family="Arbeit Regular, Helvetica, Arial-Unicode, Arial, Sans-serif"
+                  fill="#000000"
+                ></text>
+                <text
+                  x="0.0"
+                  y="122.5"
+                  font-size="5.0"
+                  font-weight="bold"
+                  font-family="Arbeit Regular, Helvetica, Arial-Unicode, Arial, Sans-serif"
+                  fill="#000000"
+                ></text>
+              </svg>
+              {/* <div className="project-links">
+                <a
+                  href="https://github.com/VatsalKotha/LinkedIn-Recommendation-System-using-Machine-Learning"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div> */}
+            </header>
+            <div className="body">
+              <h3>AnyFeast - Flutter App & Python Developer</h3>
+              <p>
+                About the Company :- To create a world where cooking inspires
+                healthier lives, stronger communities, and a sustainable
+                planet—one meal at a time. By harnessing the power of AI and
+                cutting-edge technology, we empower individuals with
+                personalised, eco-friendly meal solutions that nourish both
+                people and the planet.
+              </p>
+              <p>
+                My Role :- Responsible for Developing and maintaining high-quality,
+                responsive applications for both mobile (iOS and Android) and
+                desktop (Windows, macOS, Linux) platforms using Flutter.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>06 - 2024</li>
+                <li>-</li>
+                <li>09 -2024</li>
+                {/* <li>Woocommerce</li> */}
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
 
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
